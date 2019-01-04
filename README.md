@@ -4,6 +4,6 @@ This is a short script that shows how to create a File in Salesforce and attach 
 
 Salesforce Files require you to create a couple of objects, the ContentVersion which is the image itself and then the ContentDocumentLink, which describes the relationship between the File and the object you want to relate it to. 
 
-##Trigger warning
+## Trigger warning
 This is my first attempt at learning python ;) 
 I would definitely beware of this code!
